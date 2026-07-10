@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `webhook-router_safe.os` — the correct design.
-- `webhook-router_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `webhook-router_safe.wave` — the correct design.
+- `webhook-router_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
